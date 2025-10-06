@@ -123,10 +123,12 @@ body{
     font-weight: bold;
     font-size: 13px;
 }
-
-
+```
 ## OUTPUT:
-Screenshot (21).png
+![alt text](<Screenshot (21).png>)
+
+
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
